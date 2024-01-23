@@ -7,7 +7,7 @@ Criando uma clínica veterinária imaginária para colocar em prática o aprendi
 Estável
 
 ##Licença:
-MIT License:
+MIT License
 
 ##contato:
 Gmail: matheuscauahub@gmail.com 

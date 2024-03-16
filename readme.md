@@ -12,4 +12,4 @@ MIT License
 ##contato:
 Gmail: matheuscauahub@gmail.com 
 
-
+##Deploy: https://matheuscauacosta.github.io/clinica/
